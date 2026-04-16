@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchvision
+numpy
+matplotlib
+opencv-python-headless
+pillow
+lime
+scikit-image
+fpdf2
+passlib[bcrypt]
+python-jose[cryptography]
